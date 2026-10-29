@@ -1,0 +1,47 @@
+1. Agile Methodology
+Term
+Meaning
+1. Agile
+A software development approach in which teams deliver work in small parts and adapt to changing requirements.
+2. Scrum
+An Agile framework used to manage work in short cycles with defined roles and meetings.
+3. Sprint
+A fixed period, usually 1–4 weeks, in which a team completes a planned amount of work.
+4. Iteration
+A repeated development cycle used to build, test, and improve a product.
+5. User Story
+A short description of a feature from the user's perspective. Example: “As a user, I want to log in securely.”
+6. Epic
+A large body of work that can be divided into smaller user stories.
+7. Story Point
+A relative estimate of the effort, complexity, and uncertainty involved in completing a user story.
+8. Acceptance Criteria
+Conditions that must be satisfied for a user story to be accepted as complete.
+2. Scrum Roles — What They Do
+Role
+Responsibility
+PO – Product Owner
+Defines product goals, manages and prioritizes the Product Backlog, and maximizes product value.
+SM – Scrum Master
+Helps the team follow Scrum, facilitates Scrum events, and helps remove impediments.
+Developers
+Design, develop, test, and deliver a usable product increment during each Sprint.
+Stakeholders
+Provide feedback, share business needs, and help the team understand expectations.
+Note: The Scrum Guide defines three formal accountabilities: Product Owner, Scrum Master, and Developers. Stakeholders are important participants but are not a formal Scrum accountability.
+3. Scrum Events and Their Purpose
+Event / Term
+Purpose
+Sprint Planning
+The team decides why the Sprint is valuable, what work can be completed, and how to do it.
+Daily Scrum
+A 15-minute event for Developers to inspect progress toward the Sprint Goal and adapt their plan.
+Sprint Review
+The team and stakeholders inspect the completed work and discuss feedback and future changes.
+Sprint Retrospective
+The Scrum Team discusses what went well, what could improve, and how to work better in the next Sprint.
+Sprint Backlog
+The Sprint Goal, selected Product Backlog items, and the plan for delivering them during the Sprint.
+Sprint Goal
+The single objective that gives the Sprint a clear purpose.
+Important: Sprint Backlog and Sprint Goal are Scrum concepts, not Scrum events. The Sprint is the main container for the Scrum events.
