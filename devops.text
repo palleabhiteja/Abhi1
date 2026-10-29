@@ -1,0 +1,11 @@
+Git- it’s a version control system that helps to track and mange changes in code.
+Git -hub- it’s a cloud web platform that lets developer store, manage	 the code.
+Jenkins- jenkins is an open soures automation server that helps automate parts of software  development by using ci/cd.
+Docker- is an os level virtualization platform which allows applications to host os and its used for the delivery of your application.
+
+Selenium- it is an open -source tool used to automate web browsers for testing websites.
+Kubernetes- its used to automate the deployment, scaling, and management of containerized applications
+Grafana- its is an open source  analytics  and interactive data visualization web applications.
+Terraform is an infrastructure as a code it lets you to create and configure and manage by using the code instard of using manually creating.
+Maven-s a build automation tool mainly used for Java projects to compile code, run tests, and package applications.
+It also manages project dependencies using the pom.xml file.
